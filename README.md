@@ -15,3 +15,6 @@ Contraseña : Hola123*
 
 Email: aufderhar.deanna@example.net 
 Contraseña: secret 
+
+<li>Informe</li>
+<a href="https://github.com/mayerli-mendez/Sistema-Penitenciario/blob/Informe/PRO-GRUPO2-EXAMEN-BIMESTRAL..pdf"Acme Documentation (ver. 2.0.1).txt">Informe del proyecto</a>
