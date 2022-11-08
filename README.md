@@ -1,4 +1,4 @@
-Documnetacion 
+Documentacion 
 
 https://apiterminado.herokuapp.com/ 
 
