@@ -1,0 +1,28 @@
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/5.0.0/mdb.min.css');
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css");
+
+/*============ LogIn*/
+.login-container{
+	height: 100%;
+	background-image: url('https://github.com/StartBootstrap/startbootstrap-grayscale/blob/master/src/assets/img/bg-masthead.jpg?raw=true');
+}
+/*============ Fonts */
+.font-face {
+    font-family:  'Signika Negative';
+    font-weight: normal;
+    font-style: normal;
+}
+/*============ Icons */
+#person-circle {
+    width: 300px;
+}
+.landingPage {
+    overflow-y:scroll;
+}
+
+
+input {
+  @apply outline-0;
+}
